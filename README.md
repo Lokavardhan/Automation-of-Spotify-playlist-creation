@@ -7,6 +7,8 @@ You can fiend the explanation of all features used in this dataset in the follow
 
 ## K_Means Clustering Algorithm Implementation From Scratch
 
+
+
 K-Means is the most popular clustering algorithm. It uses an iterative technique to group unlabeled data into K clusters based on cluster centers (centroids). The data in each cluster are chosen such that their average distance to their respective centroid is minimized.
 
 ## Introduction:
